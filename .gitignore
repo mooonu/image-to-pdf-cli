@@ -22,6 +22,11 @@ venv/
 # 생성된 PDF 출력물
 *.pdf
 
+# 이미지
+*.png
+*.jpg
+*.jpeg
+
 # 로그, 임시 폴더
 *.log
 output/
